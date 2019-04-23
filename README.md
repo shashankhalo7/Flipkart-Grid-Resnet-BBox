@@ -13,6 +13,7 @@ Procedure:
     1. Install fastai
     2. Extract the zip file
     3. Move into the extracted folder
-    4. Using python3 run round3.py with image dataset path as an argument without the last slash (i.e. folder1/folder2)[not folder1/folder2/]
+    4. Using python3 run round3.py with image dataset path as an argument without the last slash (i.e. folder1/folder2)
+    [not folder1/folder2/]
     5. Round3_final_prediction.csv will be created
 
